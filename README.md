@@ -1,2 +1,2 @@
 # k6-Alura-2023-11
-Apresentação sobre testes de carga com k6 em evento promovido pela Alura no dia 16/11/2023 em São Paulo-SP.
+Apresentação online sobre testes de carga com k6 em evento promovido pela Alura no dia 16/11/2023.
