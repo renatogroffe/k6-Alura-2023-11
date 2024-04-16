@@ -19,6 +19,8 @@ Deixo aqui meus agradecimentos ao **André Bessa** e à **Jeniffer Bittencourt**
 
 ---
 
+![Audiencia](img/audiencia.png)
+
 ![Palestrando](img/k-01.png)
 
 ![Palestrando](img/k-02.png)
